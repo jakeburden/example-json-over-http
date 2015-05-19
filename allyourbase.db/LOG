@@ -1,0 +1,5 @@
+2015/05/19-00:38:04.368796 7fb6f7fff700 Recovering log #69
+2015/05/19-00:38:04.368867 7fb6f7fff700 Level-0 table #72: started
+2015/05/19-00:38:04.380357 7fb6f7fff700 Level-0 table #72: 480 bytes OK
+2015/05/19-00:38:04.403516 7fb6f7fff700 Delete type=0 #69
+2015/05/19-00:38:04.403559 7fb6f7fff700 Delete type=3 #67

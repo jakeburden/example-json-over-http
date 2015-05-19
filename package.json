@@ -1,0 +1,17 @@
+{
+  "name": "example-json-over-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "level": "^0.19.1",
+    "level-sublevel": "^6.4.6",
+    "routes": "^2.0.0"
+  }
+}

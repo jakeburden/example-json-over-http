@@ -1,0 +1,34 @@
+[{
+  "key": 1,
+  "value": {
+    "id": 1,
+    "first_name": "Timothy",
+    "last_name": "Bailey",
+    "email": "tbailey0@npr.org",
+    "country": "Ukraine",
+    "ip_address": "11.183.59.235"
+  },
+  "type": "put"
+}, {
+  "key": 2,
+  "value": {
+    "id": 2,
+    "first_name": "Doris",
+    "last_name": "Castillo",
+    "email": "dcastillo1@chicagotribune.com",
+    "country": "Japan",
+    "ip_address": "135.101.5.228"
+  },
+  "type": "put"
+}, { 
+  "key": 3,
+  "value": {
+  "id": 3,
+  "first_name": "Jason",
+  "last_name": "Lane",
+  "email": "jlane2@jiathis.com",
+  "country": "Brazil",
+  "ip_address": "78.163.81.127"
+  },
+  "type": "put"
+}]
